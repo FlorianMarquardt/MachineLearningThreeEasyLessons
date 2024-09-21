@@ -8,7 +8,7 @@ This book uses the jax machine learning library, which is really easy to use, si
 
 - The first chapter shows how to minimize the energy of a mechanical structure, relaxing it to equilibrium. This teaches how to use automatic gradients and adaptive-stepsize gradient descent.
 
-- The second chapter shows how to approximate an arbitrary function using a simple neural network. Training of that network uses the concepts already introduced in chapter 1.
+- The second chapter shows how to approximate an arbitrary function using a simple neural network. Training of that network uses the concepts already introduced in chapter 1. In addition, we learn about batch processing and about random numbers in jax.
 
 - The third and final chapter shows how to apply this to an interesting physics case. Suppose you take data in an experiment where you extract the response of a driven nonlinear oscillator. Your goal is to guess the correct underlying system parameters (like resonance frequency and damping) rapidly. A neural network, once trained, can do that for you. It will be much faster and more robust than usual nonlinear curve fitting.
 
