@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 2024_09_MinimizeEnergy
+- file: 2024_09_CurveFittingViaNeuralNetwork
+- file: 2024_09_Trieste_Duffing_Example
