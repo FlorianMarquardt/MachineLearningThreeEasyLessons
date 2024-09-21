@@ -1,5 +1,7 @@
 # Machine Learning Crash Course for Physicists in Three Easy Chapters
 
+Written by Florian Marquardt (originally for the Trieste Summer School 2024 on Frontiers in Nanomechanics).
+
 This online book teaches machine learning to a physicist in three easy chapters. You should be able to work through them in three hours, provided you know how to use python and have worked with numpy before.
 
 This book uses the jax machine learning library, which is really easy to use, since it is directly based on numpy and only adds a handful of useful but powerful commands. jax is also state of the art, being used in famous projects like DeepMind's AlphaFold. Afterwards, you will already be able to use neural networks to train them on experimental data or simulations, for tasks like rapid experimental calibration or speed-up of simulations, and many more.
