@@ -1,10 +1,10 @@
 # Machine Learning Crash Course for Physicists in Three Easy Lessons
 
-Written by Florian Marquardt (originally for the Trieste Summer School 2024 on Frontiers in Nanomechanics).
+Written by Florian Marquardt, Max Planck Institute for the Science of Light, Germany (originally developed for a Trieste Summer School in 2024).
 
-This online book teaches machine learning to a physicist in three easy chapters. You should be able to work through them in three hours total, provided you know how to use python and have worked with numpy before. You can run the code examples in your browser, without any installation, by clicking on the rocket (taking you to Google colab).
+This online book teaches machine learning to a physicist in three easy chapters. You should be able to work through them in three to four hours total, provided you know how to use python and have worked with numpy before. You can run the code examples in your browser, without any installation, by clicking on the rocket (taking you to Google colab).
 
-This book uses the [jax](https://jax.readthedocs.io) machine learning library, which is really easy to use, since it is directly based on numpy and only adds a handful of useful but powerful commands. jax is also state of the art, being used in famous projects like DeepMind's AlphaFold. Afterwards, you will already be able to use neural networks to train them on experimental data or simulations, for tasks like rapid experimental calibration or speed-up of simulations, and many more.
+This book uses the [jax](https://jax.readthedocs.io) machine learning library, which is really easy to use, since it is directly based on numpy and only adds a handful simple but powerful commands. jax is also state of the art, being used in famous recent projects like DeepMind's AlphaFold. Afterwards, you will already be able to use neural networks to train them on experimental data or simulations, for tasks like rapid experimental calibration or speed-up of simulations, and many more.
 
 - The first chapter shows how to minimize the energy of a mechanical structure, relaxing it to equilibrium. This teaches how to use automatic gradients and adaptive-stepsize gradient descent.
 
