@@ -12,3 +12,5 @@ This book uses the [jax](https://jax.readthedocs.io) machine learning library, w
 
 - The third and final chapter shows how to apply this to an interesting physics case. Suppose you take data in an experiment where you extract the response of a driven nonlinear oscillator. Your goal is to guess the correct underlying system parameters (like resonance frequency and damping) rapidly. A neural network, once trained, can do that for you. It will be much faster and more robust than usual nonlinear curve fitting.
 
+You can view the slides that went along with the in-person lectures as a [pdf](https://FlorianMarquardt.github.io/MachineLearningThreeEasyLessons/2024_09_ML_Three_Easy_Lessons_Marquardt.pdf).
+
