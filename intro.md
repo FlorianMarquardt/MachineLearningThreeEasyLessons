@@ -1,6 +1,6 @@
 # Machine Learning Crash Course for Physicists in Three Easy Lessons
 
-Written by Florian Marquardt, Max Planck Institute for the Science of Light, Germany (originally developed for a Trieste Summer School in 2024).
+Written by Florian Marquardt, Max Planck Institute for the Science of Light, Germany (originally developed for an ICTP Trieste Summer School in 2024).
 
 This online book teaches machine learning to a physicist in three easy chapters. You should be able to work through them in three to four hours total, provided you know how to use python and have worked with numpy before. You can run the code examples in your browser, without any installation, by clicking on the rocket (taking you to Google colab).
 
