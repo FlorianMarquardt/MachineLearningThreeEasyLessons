@@ -14,3 +14,6 @@ This book uses the [jax](https://jax.readthedocs.io) machine learning library, w
 
 You can view the slides that went along with the in-person lectures as a [pdf](https://github.com/FlorianMarquardt/MachineLearningThreeEasyLessons/blob/main/2024_09_ML_Three_Easy_Lessons_Marquardt.pdf) -- best open this in a separate tab.
 
+You can also view the video recordings of the two lectures (covering the three lessons) on the ICTP website:
+[First lecture (90 minutes)](http://video.ictp.it/WEB/2024/2024_09_23-smr3969/2024_09_25-09_00-smr3969.mp4) and
+[Second lecture (90 minutes)](http://video.ictp.it/WEB/2024/2024_09_23-smr3969/2024_09_27-11_00-smr3969.mp4).
