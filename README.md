@@ -5,3 +5,5 @@ Read the online book at https://florianmarquardt.github.io/MachineLearningThreeE
 Thanks to Gary Steele for pointing me to jupyter-book ! And of course, thanks to the jupyter-book contributors.
 
 Also, thanks to all the students who were asking good questions.
+
+For the slide show that went along this jupyter book in the lecture, see the file 2025_09_Italy_ML_Three_Easy_Lessons.key in this directory.
